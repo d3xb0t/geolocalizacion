@@ -1,0 +1,19 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    z-index: 100;
+    border-bottom: 1px solid #c1ecbba8;
+    height: 50px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.icon {
+    width: 1.8em;
+    height: 1.8em;
+}
+
+.icon:hover {
+    cursor: pointer;
+}
